@@ -1,4 +1,4 @@
-👋 Hello, I'm Bereket Assefa (@Bereket369G) - a young, passionate Mechatronics Engineer on a mission!
+Hi, I'm Bereket Assefa (@Bereket369G) - a young, passionate Mechatronics Engineer on a mission!
 
 🚀 Innovating at the intersection of hardware and software to revolutionize Ethiopia's tech landscape.
 
