@@ -8,7 +8,7 @@ Hi, I'm Bereket Assefa (@Bereket369G) - a young, passionate Mechatronics Enginee
 
 🤝 Eager to collaborate on groundbreaking projects that merge hardware ingenuity with software brilliance.
 
-Let's engineer tomorrow, today! 🇪🇹✨
+Let's engineer Ethiopia's tomorrow, today! 🇪🇹✨
 - 📫 How to reach me <+251975834760> or Email<assefabereket85@gmail.com> ...
 
 <!---
