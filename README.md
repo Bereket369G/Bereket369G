@@ -1,5 +1,5 @@
 # 💫 About Me
-Hi, I'm Bereket Assefa (@Bereket369G) - a young, passionate Mechatronics Engineer on a mission!
+Hi, I'm Berekete Assefa (@Bereket369G) - a young, passionate Mechatronics Engineer on a mission!
 
 🚀 Innovating at the intersection of hardware and software to revolutionize Ethiopia's tech landscape.
 🔧 Currently mastering Embedded Systems, Design, and Software Development.
@@ -13,13 +13,14 @@ Let's engineer Ethiopia's tomorrow, today! 🇪🇹✨
 
 ---
 
-## 🌐 Socials
-<p align="center">
-  <a href="https://instagram.com/B.a1578"><img width="64px" alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/BereketAssefa"><img width="64px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
-  <a href="https://pinterest.com/Assefabereket85"><img width="64px" alt="Pinterest" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white"/></a>
-  <a href="https://codepen.io/Bereket-Assefa"><img width="64px" alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white"/></a>
-  <a href="mailto:assefabereket85@gmail.com"><img width="64px" alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+<!-- Centered Socials section with horizontally stretched, equally spaced icons -->
+<h2 align="center">🌐 Socials</h2>
+<p align="center" style="display: flex; justify-content: center; gap: 40px;">
+  <a href="https://instagram.com/B.a1578"><img width="100px" height="80px" style="object-fit: contain;" alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/BereketAssefa"><img width="100px" height="80px" style="object-fit: contain;" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+  <a href="https://pinterest.com/Assefabereket85"><img width="100px" height="80px" style="object-fit: contain;" alt="Pinterest" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white"/></a>
+  <a href="https://codepen.io/Bereket-Assefa"><img width="100px" height="80px" style="object-fit: contain;" alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white"/></a>
+  <a href="mailto:assefabereket85@gmail.com"><img width="100px" height="80px" style="object-fit: contain;" alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -27,9 +28,24 @@ Let's engineer Ethiopia's tomorrow, today! 🇪🇹✨
 <!-- GitHub Stats & Activity (now visible by default, contribution snake only at bottom) -->
 <h2 align="center">📊 GitHub Stats & Activity</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bereket369G&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&include_all_commits=true&count_private=true"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Bereket369G&theme=monokai-metallian&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bereket369G&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"/>
+  <!-- Side-by-side alignment for GitHub Stats & Streak Stats -->
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Bereket369G&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&include_all_commits=true&count_private=true"/>
+      </td>
+      <td>
+        <img src="https://nirzak-streak-stats.vercel.app/?user=Bereket369G&theme=monokai-metallian&hide_border=true"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bereket369G&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"/>
+      </td>
+    </tr>
+  </table>
+</div>
   <img src="https://github-profile-trophy.vercel.app/?username=Bereket369G&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bereket369G&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"/>
   <img src="https://visitcount.itsvg.in/api?id=Bereket369G&icon=9&color=12"/>
@@ -219,6 +235,13 @@ Let's engineer Ethiopia's tomorrow, today! 🇪🇹✨
 <a href="https://github.com/PrinceGoblinTech?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Bereket369G&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
 
 
+<!-- GitHub Contribution Snake at the bottom -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+</p>
+
+
+
 ## Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
@@ -297,5 +320,3 @@ Let's engineer Ethiopia's tomorrow, today! 🇪🇹✨
 ![](https://github-contributor-stats.vercel.app/api?username=Bereket369G&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-
-<br/>
