@@ -15,9 +15,6 @@ Hi, I'm Bereket Assefa (@Bereket369G) - a young, passionate Mechatronics Enginee
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Bereket369G&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Bereket369G&icon=9&color=12)](https://visitcount.itsvg.in)
 
